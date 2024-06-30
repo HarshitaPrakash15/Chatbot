@@ -1,2 +1,2 @@
-# LLM-Chatbot
-domain adaptation using large language models
+This chatbot is designed to assist users be it parents or students with queries related to Banasthali Vidyapith. Navigating through the college's website for information can be time-consuming. Hence, this chatbot serves as a convenient alternative, allowing users to simply ask their questions and receive responses without the need for extensive web browsing. Whether you have questions about the college, general FAQs, education, courses, or any other related topic, this chatbot is here to provide you with accurate and reliable information sourced directly from the college's website.
+
